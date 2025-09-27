@@ -1,0 +1,23 @@
+# Core dependencies for YOLO Object Detection Project
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+pillow>=10.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Web UI dependencies
+streamlit>=1.28.0
+gradio>=4.0.0
+
+# Database and data handling
+sqlite3
+pandas>=2.0.0
+sqlalchemy>=2.0.0
+
+# Additional utilities
+tqdm>=4.65.0
+seaborn>=0.12.0
+plotly>=5.15.0
+requests>=2.31.0
